@@ -175,8 +175,6 @@ smart-inventory/
 
 ## 🔮 Future Improvements
 
-- Email notifications to suppliers
-- Automated purchase order generation
 - Advanced ML forecasting models
 - Role-based authentication
 - Export reports (PDF/Excel)
